@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#303030"
+    android:layout_height="match_parent"
+    tools:context=".RiskTest">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/logo"
+            />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/logo"
+            android:text="Initial Coronavirus risk test"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_marginTop="200dp"
+        android:background="#D10000"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <ScrollView
+        android:padding="20dp"
+        android:id="@+id/Question"
+        android:layout_marginTop="200dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/ageText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Are your aged above 60?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/ageGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/ageYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/ageNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RadioGroup>
+            <TextView
+                android:id="@+id/feverText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Do you have a fever?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/feverGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/feverYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/feverNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RadioGroup>
+            <TextView
+                android:id="@+id/breathText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Do you have trouble breathing or have difficulty breathing or exhaling?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/breathGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/breathYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/breathNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RadioGroup>
+            <TextView
+                android:id="@+id/weaknessText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Do you have cough and physical weakness?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/weaknessGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/weaknessYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/weaknessNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RadioGroup>
+            <TextView
+                android:id="@+id/coldText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Do you have colds, sore throat or have difficulty swallowing?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/coldGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/coldYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/coldNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </RadioGroup>
+            <TextView
+                android:id="@+id/visitText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Have you traveled to China, Italy, South Korea, Japan, Singapore, the United States, or Europe in any of the countries affected by Covid-19 (Corona) within the past 14 days?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/visitGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/visitYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/visitNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </RadioGroup>
+            <TextView
+                android:id="@+id/affectedText"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:text="Have you ever been in contact (located, or traveling) with someone affected by Covid-19 (Corona)?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <RadioGroup
+                android:id="@+id/affectedGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/affectedYes"
+                    android:text="Yes"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <RadioButton
+                    android:id="@+id/affectedNo"
+                    android:text="No"
+                    android:checked="true"
+                    android:textColor="#FFFFFF"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+            </RadioGroup>
+            <Button
+                android:id="@+id/submit"
+                android:text="Submit"
+                android:textColor="#FFFFFF"
+                android:textSize="15dp"
+                android:background="#D10000"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/result"
+        android:layout_marginTop="220dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/resultText"
+            android:text="Result"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/checkAgain"
+            android:layout_marginTop="20dp"
+            android:text="Check Again"
+            android:layout_width="200dp"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:background="#D10000"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9189255863868239/4238302065"
+        />
+
+
+
+
+
+
+</RelativeLayout>

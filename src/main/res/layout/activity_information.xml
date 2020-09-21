@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#303030"
+    android:layout_height="match_parent"
+    tools:context=".Information">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/cloud"
+            />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/logo"
+            android:text="Information"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_marginTop="200dp"
+        android:background="#D10000"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+    <LinearLayout
+        android:layout_marginTop="220dp"
+        android:id="@+id/information"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/whatIsCovid"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="What is Covid-19"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/history"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="History of Covid-19"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/symptom"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="Symptom"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/prevention"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="Prevention"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/afterSymptom"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="After having some symptom"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/quarantine"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="Quarantine"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/isolation"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="Self-isolation"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="220dp"
+        android:id="@+id/handClean"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/howToClean"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="How to clean hands properly?"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/whenToClean"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="When we should clean our hands?"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/cleaner"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="Some hand cleaner"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/howtoMake"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="how to make reasonable hand cleaner?"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/mask"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:text="Mask and Hand gloves"
+            android:background="#D10000"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/hide"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9189255863868239/4238302065"
+        />
+
+</RelativeLayout>

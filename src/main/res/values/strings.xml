@@ -1,0 +1,649 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="fcm_message">Notification</string>
+    <string name="vaccine_sting">Clinical vaccine trial :\nResearch is happening at breakneck speed, and there are more than 20 vaccines currently in development.\n\nAmong those under way at the moment are:
+
+
+        \nThe first human trial for a vaccine was announced February by scientists at a lab in the US city of Seattle. They have taken the unusual step of skipping any animal research to test the vaccine"'"s safety or effectiveness.
+Australian scientists have begun injecting ferrets with two potential vaccines. It is the first comprehensive pre-clinical trial to move to the animal testing stage, and the researchers say they hope to move to the human testing stage by the end of April.\nTests like these are taking place much quicker than would normally be the case, and some are using new approaches to vaccines. It follows that there are no guarantees everything will go smoothly.
+
+But even if these - or any other tests - do prove successful, it"'"s not expected that manufacturers will be able to produce a mass-produced vaccine until the second half of 2021.</string>
+
+    <string name="vaccine_string_bangla"><b>ক্লিনিকাল ভ্যাকসিনের পরীক্ষা:</b>\nগবেষণাটি এখন ভঙ্গুর গতিতে চলছে এবং বর্তমানে ২০ টিরও বেশি ভ্যাকসিন বিকাশে রয়েছে।\n\nএর মধ্যে এই মুহূর্তে চলছে:\n
+
+মার্কিন শহর সিয়াটেলের একটি ল্যাব ফেব্রুয়ারিতে ভ্যাকসিনের জন্য প্রথম মানব বিচারের ঘোষণা করেছিল। তারা ভ্যাকসিনের সুরক্ষা বা কার্যকারিতা পরীক্ষা করতে কোনও প্রাণী গবেষণা এড়িয়ে যাওয়ার অস্বাভাবিক পদক্ষেপ নিয়েছে।
+\nঅস্ট্রেলিয়ান বিজ্ঞানীরা দুটি সম্ভাব্য ভ্যাকসিন দিয়ে ফেরেটগুলি ইনজেকশন দেওয়া শুরু করেছেন। প্রাণী পরীক্ষার পর্যায়ে যাওয়ার জন্য এটি প্রথম বিস্তৃত প্রাক-ক্লিনিকাল ট্রায়াল, এবং গবেষকরা বলেছেন যে তারা এপ্রিলের শেষে মানব পরীক্ষার পর্যায়ে চলে যাওয়ার আশা করছেন।
+\nএ জাতীয় পরীক্ষাগুলি সাধারণত ঘটনার চেয়ে দ্রুততর হয় এবং কেউ কেউ ভ্যাকসিনগুলিতে নতুন পদ্ধতি ব্যবহার করছে। এটি অনুসরণ করে যে সবকিছু সহজেই চলবে এমন কোনও গ্যারান্টি নেই।
+
+\n\nতবে এগুলি - বা অন্য কোনও পরীক্ষাগুলি সফল প্রমাণিত হলেও, এটি আশা করা যায় না যে নির্মাতারা ২০২১ সালের দ্বিতীয়ার্ধ পর্যন্ত একটি ভর উত্পাদিত ভ্যাকসিন তৈরি করতে সক্ষম হবেন।</string>
+    <string name="what_is_covid_19">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+\n\nMost people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+        \n\n\n"        "The name of the disease and the virus:
+
+\n\nThe virus causing the current outbreak is called severe acute respiratory syndrome coronavirus 2, shortened to SARS-CoV-2. The disease is called coronavirus disease, shortened to COVID-19.
+
+\n\nThese names have been assigned by the World Health Organization and the International Committee on Taxonomy of Viruse.
+        \n\nSome researchers have suggested that the Huanan Seafood Wholesale Market may not be the original source of viral transmission to humans.
+
+\n\nAs of 31 March 2020, there have been more than 787,010 confirmed cases in the coronavirus pneumonia pandemic. The Wuhan strain has been identified as a new strain of Betacoronavirus from group 2B with approximately 70% genetic similarity to the SARS-CoV. The virus has a 96% similarity to a bat coronavirus, so it is widely suspected to originate from bats as well.The pandemic has resulted in travel restrictions and nationwide lockdowns in several countries.
+
+\n\n\n"        "Other animals:
+\n\nCoronaviruses have been recognized as causing pathological conditions in veterinary medicine since the 1930s. Except for avian infectious bronchitis, the major related diseases have mainly an intestinal location.
+        \n\n\n"        "Replication:
+\n\nA number of the nonstructural proteins coalesce to form a multi-protein replicase-transcriptase complex (RTC). The main replicase-transcriptase protein is the RNA-dependent RNA polymerase (RdRp). It is directly involved in the replication and transcription of RNA from an RNA strand. The other nonstructural proteins in the complex assist in the replication and transcription process. The exoribonuclease non-structural protein, for instance, provides extra fidelity to replication by providing a proofreading function which the RNA-dependent RNA polymerase lacks.
+
+\n\nOne of the main functions of the complex is to replicate the viral genome. RdRp directly mediates the synthesis of negative-sense genomic RNA from the positive-sense genomic RNA. This is followed by the replication of positive-sense genomic RNA from the negative-sense genomic RNA. The other important function of the complex is to transcribe the viral genome. RdRp directly mediates the synthesis of negative-sense subgenomic RNA molecules from the positive-sense genomic RNA. This is followed by the transcription of these negative-sense subgenomic RNA molecules to their corresponding positive-sense mRNAs.
+
+\n\nThe replicated positive-sense genomic RNA becomes the genome of the progeny viruses. The mRNAs are gene transcripts of the last third of the virus genome after the initial overlapping reading frame. These mRNAs are translated by the host"'"s ribosomes into the structural proteins and a number of accessory proteins. RNA translation occurs inside the endoplasmic reticulum. The viral structural proteins S, E, and M move along the secretory pathway into the Golgi intermediate compartment. There, the M proteins direct most protein-protein interactions required for assembly of viruses following its binding to the nucleocapsid. Progeny viruses are then released from the host cell by exocytosis through secretory vesicles.
+
+\n\n\n"        "Transmission:
+
+\n\nMap of world and outbreak-time of pandemia through the states
+\nHuman to human transmission of coronaviruses is primarily thought to occur among close contacts via respiratory droplets generated by sneezing and coughing. The interaction of the coronavirus spike protein with its complement host cell receptor is central in determining the tissue tropism, infectivity, and species range of the virus. The SARS coronavirus, for example, infects human cells by attaching to the angiotensin-converting enzyme 2 (ACE2) receptor.
+
+        \n\n\n "        "Mechanism of action of coronavirus:
+\n\nThe coronavirus must infect living cell in oder to reproduce .
+\nInside the virus,genetic material contains the information to make more copies of itself. A protein shell provides a hard protective enclosure for the genetic material as the virus travels between the people it infects. An outer envelope allows the virus to infect cells by merging with the cell"'"s outer membrane, projecting from the envelope are spikes of protein molecules. Both a typical influenza virus and the new coronavirus use their spikes like a key to get inside a cell in your body,where it takes over its internal machinery, repurposing it to build the components of new viruses.
+\nWhen an infected person talk cough and sneezing droplets carring the virus may land in your mouth or nose and then move  into the lungs.once inside your body the virus comes into contact with cells in the throat nose or lungs .one spike on the virus inserts into a receptor molecule on the healthy cell membrane like a key in a lock .This action allows the virus to get inside your cell .A typical flu virus would travel inside a sack  made from the cell membrane to the cell"'"s nucleus that where cell houses all its genetic material .The coronavirus, on the other hand ,doesn"'"t need to enter the host cell nucleus. It can directly access parts of the host cell ,Called Ribosomes.
+\nRibosomes use genetic information from the virus to make viral proteins,such as the spikes on the virus surface. A packaging structure in the cell then caries the spikes in vesicles, which merge with your cell"'"s outer layer,the cell membrane. All the parts needed to create a new virus gather just beneath cell"'"s membrane. Then a new virus begins to butt off from the cell membrane.
+\nHow to pneumonia symptoms :The lungs has separate two sections. Each section call lobes.Normally as the breathe air moves freely through trachea or windpipe then through large tubes called bronchi,through smaller tubes called brobchioles,and finally into tiny sacs called alveoli.Airways and alveolio are flexible and springy .When breathe in each air sac inflates like a small balloon .And when you exhale the sacs deflate small blood vessels called capillaries surround alveoli.Oxygen from their the air breathe passes into the capillaries then carbon dioxide from the body passes out the body into alveoli so that lungs can get rid of it when exhale .Airways catch most germs in the mucus that lines trachea brnchi and bronchioles .In the healthy body ,hair-like -cilia lining the tubes constantly push the muscus and germs out of airways. When you may expel them by coughing. Normally, cells of immune system attack viruses and germs that make it past mucus and cilia and enter alveoli. However if the immune system is weakened like in the case of a coronavirus infection,the virus can overwhelm immune cells and bronchioles and alveoli become inflamed your immune system attack in the multiplying viruses. The inflammation can cause alveoli to fill with fluid, making it difficult for body to get oxygen it needs .can develop lobat pneumonia. Where one lobe of lungs is affected or cough have bronchopneumonia thats affects many area of lungs Pneumonia may cause cheats pain, difficult breathing, coughing ,fever and chillls ,fatigue, confusion, headache, muscle pain .If the condition serious it can be respiratory failure.
+
+
+
+        \n\n\n"        "Taxonomy:
+
+         \n\n " "*Genus: Alphacoronavirus
+\n   "   "-Species: Human coronavirus 229E, Human coronavirus NL63, Miniopterus bat coronavirus 1, Miniopterus bat coronavirus HKU8, Porcine epidemic diarrhea virus, Rhinolophus bat coronavirus HKU2, Scotophilus bat coronavirus 512
+\n\n " "*Genus Betacoronavirus; type species: Murine coronavirus
+\n   "   "-Species: Betacoronavirus 1 (Human coronavirus OC43), Human coronavirus HKU1, Murine coronavirus, Pipistrellus bat coronavirus HKU5, Rousettus bat coronavirus HKU9, Severe acute respiratory syndrome-related coronavirus (SARS-CoV, SARS-CoV-2), Tylonycteris bat coronavirus HKU4, Middle East respiratory syndrome-related coronavirus, Hedgehog coronavirus 1 (EriCoV)
+\n\n " "*Genus Gammacoronavirus; type species: Infectious bronchitis virus
+\n   "   "-Species: Beluga whale coronavirus SW1, Infectious bronchitis virus
+\n\n " "*Genus Deltacoronavirus; type species: Bulbul coronavirus HKU11
+\n   "   "-Species: Bulbul coronavirus HKU11, Porcine coronavirus HKU15
+    </string>
+    <string name="history">
+        The outbreak was first noticed in the city of Wuhan, China. Wuhan is the capital of the Hubei Province and has about 11 million inhabitants. On 29 December 2019, Chinese authorities identified a cluster of similar cases of pneumonia in the city.
+\nThese cases were soon determined to be caused by a novel coronavirus that was later named SARS-CoV-2.
+\nThe first cases of COVID-19 outside of China were identified on January 13 in Thailand and on January 16 in Japan.
+\nOn January 23rd the city of Wuhan and other cities in the region were placed on lockdown by the Chinese Government.
+\nSince then COVID-19 has spread to many more countries – cases have been reported in all world regions. By March it developed into a global pandemic and was declared as such by the WHO.
+\nThe term refers to a group of viruses that are common in humans: coronaviruses are the cause for around 30% of cases of the common cold. Corona is Latin for “crown” – this group of viruses is given its name due to the fact that its surface looks like a crown under an electron microscope.
+
+\n\nTwo outbreaks of new diseases in recent history were also caused by coronaviruses – SARS in 2003  and MERS in 2012.
+
+
+        \n\n\n"        "Evolution:
+\n\nThe most recent common ancestor (MRCA) of all coronaviruses has been estimated to have existed as recently as 8000 BCE, though some models place the MRCA as far back as 55 million years or more, implying long term coevolution with bats. The MRCAs of the alphacoronavirus line has been placed at about 2400 BCE, the betacoronavirus line at 3300 BCE, the gammacoronavirus line at 2800 BCE, and the deltacoronavirus line at about 3000 BCE. It appears that bats and birds, as warm-blooded flying vertebrates, are ideal hosts for the coronavirus gene source (with bats for alphacoronavirus and betacoronavirus, and birds for gammacoronavirus and deltacoronavirus) to fuel coronavirus evolution and dissemination.
+
+\n\nBovine coronavirus and canine respiratory coronaviruses diverged from a common ancestor recently (~ 1950). Bovine coronavirus and human coronavirus OC43 diverged around the 1890s. Bovine coronavirus diverged from the equine coronavirus species at the end of the 18th century.
+
+\n\nThe MRCA of human coronavirus OC43 has been dated to the 1950s.
+
+\n\nMERS-CoV, although related to several bat coronavirus species, appears to have diverged from these several centuries ago. The human coronavirus NL63 and a bat coronavirus shared an MRCA 563–822 years ago.
+
+\n\nThe most closely related bat coronavirus and SARS-CoV diverged in 1986. A path of evolution of the SARS virus and keen relationship with bats have been proposed. The authors suggest that the coronaviruses have been coevolved with bats for a long time and the ancestors of SARS-CoV first infected the species of the genus Hipposideridae, subsequently spread to species of the Rhinolophidae and then to civets, and finally to humans.
+
+\n\nAlpaca coronavirus and human coronavirus 229E diverged before 1960.
+        \n\n\n"        "Human coronaviruses:
+        \n\nCoronaviruses vary significantly in risk factor. Some can kill more than 30% of those infected (such as MERS-CoV), and some are relatively harmless, such as the common cold. Coronaviruses cause colds with major symptoms, such as fever, and sore throat from swollen adenoids, occurring primarily in the winter and early spring seasons. Coronaviruses can cause pneumonia (either direct viral pneumonia or a secondary bacterial pneumonia) and bronchitis (either direct viral bronchitis or a secondary bacterial bronchitis). The much publicized human coronavirus discovered in 2003, SARS-CoV, which causes severe acute respiratory syndrome (SARS), has a unique pathogenesis because it causes both upper and lower respiratory tract infections.
+
+\n\nSix species of human coronaviruses are known, with one species subdivided into two different strains, making seven strains of human coronaviruses altogether. Four of these strains produce the generally mild symptoms of the common cold:
+
+\n\n"   "1. Human coronavirus OC43 (HCoV-OC43), of the genus β-CoV
+\n"   "2. Human coronavirus HKU1, β-CoV, its genome has 75% similarity to OC43
+\n"   "3. Human coronavirus 229E (HCoV-229E), α-CoV
+\n"   "4. Human coronavirus NL63 (HCoV-NL63, New Haven coronavirus), α-CoV
+\n\n– and three strains (two species) produce symptoms that are potentially severe; all three of these are β-CoV strains:
+
+\n\n"   "1. Middle East respiratory syndrome-related coronavirus (MERS-CoV), previously known as novel coronavirus 2012 and HCoV-EMC
+\n"   "2. Severe acute respiratory syndrome coronavirus (SARS-CoV or "SARS-classic")
+\n"   "3. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), previously known as 2019-nCoV or "novel coronavirus 2019"
+\n"   "4. evere acute respiratory syndrome (SARS)
+    </string>
+    <string name="symptom">
+        "        "People may experience:
+\n\n"   "1. Cough.
+\n"   "2. Fever.
+\n"   "3. Tiredness.
+\n"   "4. Difficulty breathing (severe cases).
+        \n\n\n"        "Diseases caused:
+\n\nCoronaviruses primarily infect the upper respiratory and gastrointestinal tract of mammals and birds. They also cause a range of diseases in farm animals and domesticated pets, some of which can be serious and are a threat to the farming industry. In chickens, the infectious bronchitis virus (IBV), a coronavirus, targets not only the respiratory tract but also the urogenital tract. The virus can spread to different organs throughout the chicken. Economically significant coronaviruses of farm animals include porcine coronavirus (transmissible gastroenteritis coronavirus, TGE) and bovine coronavirus, which both result in diarrhea in young animals. Feline coronavirus: two forms, feline enteric coronavirus is a pathogen of minor clinical significance, but spontaneous mutation of this virus can result in feline infectious peritonitis (FIP), a disease associated with high mortality. Similarly, there are two types of coronavirus that infect ferrets: Ferret enteric coronavirus causes a gastrointestinal syndrome known as epizootic catarrhal enteritis (ECE), and a more lethal systemic version of the virus (like FIP in cats) known as ferret systemic coronavirus (FSC). There are two types of canine coronavirus (CCoV), one that causes mild gastrointestinal disease and one that has been found to cause respiratory disease. Mouse hepatitis virus (MHV) is a coronavirus that causes an epidemic murine illness with high mortality, especially among colonies of laboratory mice. Sialodacryoadenitis virus (SDAV) is highly infectious coronavirus of laboratory rats, which can be transmitted between individuals by direct contact and indirectly by aerosol. Acute infections have high morbidity and tropism for the salivary, lachrymal and harderian glands.
+
+\n\nA HKU2-related bat coronavirus called swine acute diarrhea syndrome coronavirus (SADS-CoV) causes diarrhea in pigs.
+
+\n\nPrior to the discovery of SARS-CoV, MHV had been the best-studied coronavirus both in vivo and in vitro as well as at the molecular level. Some strains of MHV cause a progressive demyelinating encephalitis in mice which has been used as a murine model for multiple sclerosis. Significant research efforts have been focused on elucidating the viral pathogenesis of these animal coronaviruses, especially by virologists interested in veterinary and zoonotic diseases.
+    </string>
+    <string name="prevention">
+        "      "1. Wash your hands frequently:
+\n\nRegularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
+
+\n\nWhy?
+        \nWashing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.
+
+\n\n\n"      "2. Maintain social distancing:
+\n\nMaintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.
+
+\n\nWhy?
+        \nWhen someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.
+
+
+
+\n\n\n"      "3. Avoid touching eyes, nose and mouth:
+
+\n\nWhy?
+        \nHands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick.
+
+\n\n\n"      "4. Practice respiratory hygiene:
+\n\nMake sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.
+
+\n\nWhy?
+        \nDroplets spread virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19.
+
+        \n\n"      "5. Avoid close contract with anyone with cold or flu like symptoms.
+\n\n"      "6. Thoroughly cook meat and eggs.
+\n\n"      "7. Avoid unprotected contract with live wild or farm animals.
+
+
+\n\n"      "8. If you have fever, cough and difficulty breathing, seek medical care early:
+\n\nStay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.
+
+\n\nWhy?
+        \nNational and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections.
+
+
+
+\n\n\n"      "9. Stay informed and follow advice given by your health care provider:
+\n\nStay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider, your national and local public health authority or your employer on how to protect yourself and others from COVID-19.
+
+\n\nWhy?
+        \nNational and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves.
+
+
+       \n\n\n Since this disease has no vaccine or medicine, we should increase the immune system in our body.
+\nFoods high in vitamin C can be eaten for:
+\n"   "1. Any kind of sour food
+\n"   "2. Any kind of sour fruits
+\n"   "3. Green mango
+\n"   "4. Hog plum
+\n"   "5. Lemon
+\n"   "6. Orange
+\n"   "7. Malta
+\n"   "8. Aloe vera
+\n"   "9. Emblic
+\n"   "10. Guava
+\n"   "11. Grapefruit
+\n"   "12. Jujube
+\n"   "13. Berry
+\n"   "14. Red sweet pepper
+\n"   "15. Sweet yellow pepper
+\n"   "16. Cherry
+\n"   "17. Mustard vegetables
+\n"   "18. Broccoli
+\n"   "19. Litchi
+\n"   "20. Papaya
+
+    </string>
+    <string name="after_symptom">
+        Stay at home if you begin to feel unwell, even with mild symptoms such as headache and slight runny nose, until you recover.
+        \n\nWhy?
+        \nAvoiding contact with others and visits to medical facilities will allow these facilities to operate more effectively and help protect you and others from possible COVID-19 and other viruses.
+\n\nIf you develop fever, cough and difficulty breathing, seek medical advice promptly as this may be due to a respiratory infection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.
+        \n\nWhy?
+        \nCalling in advance will allow your health care provider to quickly direct you to the right health facility. This will also help to prevent possible spread of COVID-19 and other viruses.
+        \n\nCall IEDCR immediately:
+        \nContact: 333, 10655, 16263
+        \nHOTLINE:
+10655,
++8801944333222,
++8801937000011,
++8801937110011,
++8801927711784,
++8801927711785
+    </string>
+    <string name="home_quarantine">
+        "   "1. If any such visit is unavoidable, departing travelers should -
+\n\n Follow the travel advisory of the visiting country and take necessary travel
+precautions accordingly.
+\n\n Report sickness with the airport/airline authority if any.
+\n\n During visit-
+\n"   " S/he should not stay outside room unnecessarily.
+\n"   " S/he should preferably avoid crowds, especially public gatherings, likemarkets, movie theatres, concerts, stadiums etc.
+\n"   " S/he should not come in close personal contacts like handshaking, hugging etc.
+with any person.
+\n"   " S/he should avoid contact with ill persons having symptoms of fever/cough/sore
+throat/ respiratory distress etc.
+\n"   " S/he should avoid contact with sick animals/ birds, and going to markets known
+for selling animals.
+\n"   " S/he should frequently wash hands with soap-water (at least for 20 sec) or with
+alcohol-based hand rub.
+\n\n\n\n "   "2.For passengers, arriving in Bangladesh from COVID-19 affected countries-
+\n\n On board, Health Declaration Forms and Passenger Locator Forms are distributed for
+filling up. Passengers should fill these forms duly and return to the designated person/
+immigration desk.
+\n\n Health Information Card is also distributed among the arriving passengers at the airport
+for further instructions and communication with IEDCR. Passengers should preserve
+these cards so that these cards can be used in future if necessary.
+        \n\n\n\n "   "3.If s/he feels sick (fever ≥1000 F or cough or sore throat or breathing difficulty) during travel/on arrival in Bangladesh, s/he should report sickness immediately to the cabin crew/airport health desk.
+\n\nA sick passenger should maintain cough etiquette (i.e., covering mouth and nose with tissue/flexed elbow and disposing used tissue in a lined trash can). S/he will be transferred to a designated hospital (Kuwait Bangladesh Friendship Hospital) by a designated ambulance for further diagnosis and management.
+\n\n Healthy Passenger should preferably use private vehicle for going home from airport, if affordable. S/he should wear a mask during this travel and keep the windows of the vehicle open.
+\n\n These passengers should abide by the followings for next 14 dayso S/he should stay at home, and should not attend office/school or any other public gatherings, like- markets, movie theatres, concerts, stadiums etc. For essential visit outside home, s/he should wear a mask to cover mouth and nose.
+\n"   "a. Passengers should wash both hands frequently with soap and water for at least 20 seconds or with hand sanitizer or alcohol-based hand rubs.
+\n"   "b. S/he should not touch nose, mouth and eyes with unclean hands.
+\n"   "c. If any symptom, like- fever/cough/sore throat/breathlessness etc. develop within 14 days of arrival.
+        \n\n\n S/he should go to nearby government hospital. During the way to hospital, s/he should wear a mask, keep distance of at least 1 meter (3 feet) from other persons, and preferably avoid mass transportations.
+        \nHOTLINE:
+10655
++8801944333222
++8801937000011
++8801937110011
++8801927711784
++8801927711785
+    </string>
+    <string name="isolation">
+        Do not leave your home if you have symptoms of coronavirus (COVID-19) or live with someone who does. This is called self-isolation.
+
+\n\n\nIf you are self-isolating, you must:
+
+\n\n"   "1. Not leave your home for any reason, other than to exercise once a day – but stay at least 2 metres (3 steps) away from other people.
+\n"   "2. Not go out to buy food or collect medicine – order them by phone or online, or ask someone else to drop them off at your home.
+\n"   "3. Not have visitors, such as friends and family, in your home.
+
+        \n\n\n\n"      "How long to self-isolate:
+\n\n"   "1. If you have symptoms:
+\nIf you have symptoms of coronavirus, you"'"ll need to self-isolate for 7 days.
+
+\n\nAfter 7 days:
+
+\n\n"    "a. If you do not have a high temperature, you do not need to self-isolate.
+\n\n"    "b. if you still have a high temperature, keep self-isolating until your temperature returns to normal.
+\n\n"    "c. You do not need to self-isolate if you just have a cough after 7 days. A cough can last for several weeks after the infection has gone.
+        \n\n"  "2. If you live with someone who has symptoms:
+\nYou"'"ll need to self-isolate for 14 days from the day their symptoms started. This is because it can take 14 days for symptoms to appear.
+
+\n\n"  "3. If more than 1 person at home has symptoms:
+        \nSelf-isolate for 14 days from the day the first person started having symptoms.
+    </string>
+
+
+    <string name="how_t0_clean">Covid-19</string>
+    <string name="when_clean">
+        Protect yourself and others from getting sick.
+\n\nWash your hands:
+        \n
+"   "1. After coughing or sneezing.
+\n"   "2. When caring for the sick.
+\n"   "3. Before during and after you prepare food.
+\n"   "4. Before eating.
+\n"   "5. After toilet use.
+\n"   "6. when hands are dirty.
+\n"   "7. After handling animals or animal waste.
+
+\n\n- Wash your hands with soap and running water when hands are visiblely dirty at least 20 sec.
+\n- If your hands are not visibly dirty ,wash them with soap and water or use an alcohol based hand cleanser
+    </string>
+    <string name="some_hand_cleaner">
+        We can protect our hand from coronavirus using:
+        \n\n1. Soap.
+        \n2. Hand Sanitizer.
+        \n3. Hand Wash.
+        \n4. Soapy Water.
+    </string>
+    <string name="how_to_make">
+        We can make some antiseptic at reasonable price:
+        \n\n1. Soapy Water:
+        \n"   "a. 1.5 litter water.
+        \n"   "b. 4 teaspoon detergent powder.
+
+        \n\n2. Disinfectant:
+        Disinfectant is not hand cleaner. Disinfectant can be use to sanitize different things.
+        \n"   "a. 5 litter water.
+        \n"   "b. 1 tablespoon bleaching powder.
+    </string>
+    <string name="mask">
+        How to put on use take off And dispose of a Mask:
+\n\n"   1. when use a mask:  For healthy people wear a mask only if you are taking care of a person with suspected 2019-nCoV infection
+Wear a mask ,if you are coughing or sneezing.
+\n\n"   2. Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water.
+\n\n"   3. If you were a mas then you must know how to use it and when dispose of it properly.
+\n\n"   4. Before putting on a mask clean hands with alcohol -based hand rub or soap and water.
+\n\n"   5. cover mouth and nose with mask and make sure between your face and the mask.
+\n\n"   6. Avoid touching mask while using it.If you do,clean your hands with alcohol -based hand rub or soap and water.
+\n\n"   7. Replace the mask with a new one as soon as it is damp and do not re-use single -use masks.
+\n\n"   8. To remove the mask :remove it from behind  (do not touch the front of mask );discard immediately in a close bin clean hands with alcohol -based hand rub or soap and water.
+        \n\n\nFurther, using a mask incorrectly may hamper its effectiveness in reducing the risk of transmission.
+
+        \n\n\n\n
+        Is wearing rubber gloves while out in public effective in preventing the new Coronavirus infection?
+        \n\nAns: No, Regularly washing your hands effective more protection against catching Covid-19 then wearing rubber gloves.
+        \n\nYou can still pick up Covid-19 contamination on rubber gloves.
+        \n\nIf you then touch your face, the contamination goes from your gloves to your face and can infect you.
+    </string>
+
+    <string name="what_is_covid_19_bangla">
+        করোনাভাইরাস (কোভিড-১৯) একটি সংক্রামক রোগ যা সদ্য আবিষ্কৃত করোনা ভাইরাস দ্বারা সৃষ্ট।
+
+\n\nকোভিড-১৯ ভাইরাস দ্বারা সংক্রামিত বেশিরভাগ মানুষ হালকা থেকে মাঝারি শ্বাসযন্ত্রের অসুস্থতা নিয়ে পড়বেন এবং বিশেষ চিকিত্সার প্রয়োজন ছাড়াই সুস্থ হয়ে উঠবেন। বয়স্ক ব্যক্তিরা এবং কার্ডিওভাসকুলার ডিজিজ, ডায়াবেটিস, দীর্ঘস্থায়ী শ্বাসযন্ত্রের রোগ এবং ক্যান্সারের মতো অন্তর্নিহিত চিকিৎসার রোগীদের গুরুতর অসুস্থ হওয়ার সম্ভাবনা বেশি থাকে।
+        \n\nরোগের নাম এবং ভাইরাস:
+
+\n\nবর্তমান প্রাদুর্ভাব সৃষ্টিকারী ভাইরাসটিকে মারাত্মক তীব্র শ্বাসযন্ত্রের লক্ষণ করোনভাইরাস 2 বলা হয়, যা সারস-কোভি -2-তে সংক্ষিপ্ত হয়ে যায়। রোগটিকে করোনভাইরাস রোগ বলা হয়, সংক্ষিপ্ত আকারে কোভিড-১৯।
+
+\n\nএই নামগুলি বিশ্বস্বাস্থ্য সংস্থা এবং ভাইরাস ব্যবহারের সংজ্ঞা সম্পর্কিত আন্তর্জাতিক কমিটি অর্পণ করেছে
+        \n\nকিছু গবেষক পরামর্শ দিয়েছেন যে হুয়ানান সীফুড হোলসেল মার্কেট মানুষের মধ্যে ভাইরাল সংক্রমণের মূল উত্স নাও হতে পারে।
+
+\n\n২০২০ সালের ৩১ শে মার্চ পর্যন্ত করোন ভাইরাস নিউমোনিয়া মহামারীতে ৭৮৭,০১০ এরও বেশি কেস  নিশ্চিত হওয়া গেছে। উওহান স্ট্রেনটি সার্কস-কোভের প্রায় ৭০% জিনগত মিলের সাথে গ্রুপ 2বি থেকে বেটাকোরোনভাইরাসকে নতুন স্ট্রেন হিসাবে চিহ্নিত করা হয়েছে। ব্যাট করোনাভাইরাসের সাথে ভাইরাসটির ৯৬% মিল রয়েছে, তাই এটি ব্যাট থেকেও উদ্ভূত হওয়ার আশঙ্কা রয়েছে। মহামারীটি বেশ কয়েকটি দেশে ভ্রমণ বিধিনিষেধ এবং দেশব্যাপী লকডাউন ঘটায়।
+
+\n\nঅন্যান্য প্রাণী
+\nকরোনভাইরাসগুলি ১৯৩০ এর দশক থেকে ভেটেরিনারি মেডিসিনে প্যাথলজিকাল অবস্থার কারণ হিসাবে স্বীকৃত। এভিয়ান সংক্রামক ব্রঙ্কাইটিস ব্যতীত, প্রধান সম্পর্কিত রোগগুলির প্রধানত অন্ত্রের অবস্থান রয়েছে।
+        \n\nরেপ্লিকেশন বা, অনুলিপিকরণ:
+কতগুলো অগঠনমূলক প্রোটিন সমবেত হয়ে বহু-প্রোটিন রেপ্লিকেজ-ট্রান্সক্রিপ্টেজ কম্প্লেক্স (আর.টি.সি.) গঠন করে। আরএনএ-নির্ভর আরএনএ পলিমারেজ(আর.ডি.আর.পি.) হচ্ছে প্রধান রেপ্লিকেজ-ট্রান্সক্রিপ্টেজ প্রোটিন। এই প্রোটিনটি আরএনএ থেকে আরএনএ স্ট্র‍্যান্ড অনুলিপিকরন এবং ট্রান্সক্রিপশন এর জন্য সরাসরি নিযুক্ত। কম্পলেক্সের অন্যান্য অগঠনমূলক প্রোটিন এই অনুলিপিকরণ এবং ট্রান্সক্রিপশন প্রক্রয়ায় সহায়তা করে। উদাহরণস্বরূপ, এক্সোরাইবোনিউক্লিয়েজ নামক অগঠনমূলক প্রোটিন অনুলিপিকরণে ভুল চিহ্নিত করা এবং সংশোধনের(প্রুফরিডিং) বৈশিষ্ট্য এনে দেয় যা আরএনএ-নির্ভর আরএনএ পলিমারেজ এ নেই।
+
+এই কম্পলেক্সটির অন্যতম প্রধান কাজ হচ্ছে ভাইরাসের জিনোমের অনুলিপিকরণ। আরডিআরপি সরাসরি নেগেটিভ-সেন্স জিনোমিক আরএনএ এর সংশ্লেষণকে পজিটিভ-সেন্স জিনোমিক আরএনএ থেকে মধ্যস্থতা করে, যার পরবর্তীতে নেগেটিভ-সেন্স জিনোমিক আরএনএ থেকে পজিটিভ-সেন্স জিনোমিক আরএনএ অনুলিপিকরণ হয়ে থাকে। ভাইরাসের জিনোম এর ট্রান্সক্রিপশন করা কম্পলেক্সটির আরেকটি গুরুত্বপূর্ণ কাজ। আরডিআরপি সরাসরি নেগেটিভ-সেন্স সাবজিনোমিক আরএনএ এর সংশ্লেষণকে পজিটিভ-সেন্স জিনোমিক আরএনএ থেকে মধ্যস্থতা করে, যার পরবর্তীতে এসব নেগেটিভ-সেন্স সাবজিনোমিক আরএনএ অণু অনুযায়ী পজিটিভ-সেন্স এম-আরএনএ এর ট্রান্সক্রিপশন হয়ে থাকে।
+
+নির্গমন
+অনুলিপিকৃত পজিটিভ সেন্স জিনোমিক আরএনএ অপত্য ভাইরাসগুলোর জিনোম হিসেবে কাজ করে। প্রাথমিক অধিক্রমণকারী পঠন কাঠামো অনুযায়ী ভাইরাস জিনোমের শেষ তৃতীয়াংশের ট্রান্সক্রাইবকৃত জিন হলো এমআরএনএ গুলি। এই এমআরএনএ গুলো পোষক রাইবোজোম দ্বারা ট্রান্সলেটেড হয়ে গঠনমূলক প্রোটিন এবং কতগুলো সহযোগী প্রোটিন তৈরি করে। এন্ডোপ্লাজমিক রেটিকুলাম এর মধ্যে আরএনএ ট্রান্সলেশন হয়। ভাইরাল গঠনমূলক প্রোটিন S, E এবং M ক্ষরণশীল পথ পরিক্রমণ করে মধ্যবর্তী গলজি প্রকোষ্ঠে অবস্থান করে। সেখানে, M প্রোটিন গুলো বেশিরভাগ প্রোটিন-প্রোটিন মিথস্ক্রিয়া নির্দেশনা করে যা কিনা নিউক্লিওক্যাপসিড এর সাথে বন্ধনের পর ভাইরাসের সমবেত হওয়ার জন্য প্রয়োজনীয়। এক্সোসাইটোসিস প্রক্রিয়ার মাধ্যমে অপত্য ভাইরাসগুলো ক্ষরণকারী প্রকোষ্ঠগুলো দ্বারা বাহক কোষ থেকে নির্গত হয়।
+
+সংক্রমণ
+হাঁচি ও কাশির মাধ্যমে সৃষ্ট পানিকণার ফলে আক্রান্তর সংস্পর্শে অপর ব্যক্তি আক্রান্ত হতে পারে। করোনাভাইরাসের স্পাইক প্রোটিনের সাথে আক্রমণের শিকার হতে যাওয়ার কোষের হোস্ট কোষের গ্রাহকপ্রান্তের মিথস্ক্রিয়াই টিস্যু ট্রপিজম, সংক্রাম্যতা এবং প্রজাতির ব্যাপ্তি ইত্যাদির ব্যাপারে তথ্য দেয়। উদাহরণস্বরূপ, সার্স করোনাভাইরাস অ্যাঞ্জিওটেনসিন-রূপান্তরিত এনজাইম ২ (এসিই ২) মানবকোষে সংযুক্তির মাধ্যমে সংক্রামণ ঘটায়।
+
+
+
+        \n\nশ্রেণিবিন্যাস:
+
+\n\nকরোনাভাইরাসের বৈজ্ঞানিক নাম Orthocoronavirinae (অর্থোকরোনাভিরিনি) বা Coronavirinae (করোনাভিরিন্যা) করোনাভাইরাস করোনাভিরিডি পরিবারের সদস্য।
+\n•	গণ: Alphacoronavirus (আলফাকরোনাভাইরাস)
+\n"   "o	প্রজাতি: Human coronavirus 229E (হিউম্যান করোনাভাইরাস ২২৯ই), Human coronavirus NL63 (হিউম্যান করোনাভাইরাস এনএল৬৩), Miniopterus bat coronavirus 1, Miniopterus bat coronavirus HKU8, Porcine epidemic diarrhea virus, Rhinolophus bat coronavirus HKU2, Scotophilus bat coronavirus 512
+\n•	গণ Betacoronavirus (বেটাকরোনাভাইরাস); প্রজাতির ধরন: Murine coronavirus
+\n"   "o	প্রজাতি: Betacoronavirus 1, Human coronavirus HKU1, Murine coronavirus, Pipistrellus bat coronavirus HKU5, Rousettus bat coronavirus HKU9, Severe acute respiratory syndrome-related coronavirus, Severe acute respiratory syndrome coronavirus 2, Tylonycteris bat coronavirus HKU4, Middle East respiratory syndrome-related coronavirus, Human coronavirus OC43, Hedgehog coronavirus 1 (EriCoV)
+\n•	গণ Gammacoronavirus (গামাকরোনাভাইরাস); প্রজাতির ধরন: Infectious bronchitis virus
+\n"   "o	প্রজাতি: Beluga whale coronavirus SW1, Infectious bronchitis virus
+\n•	গণ Deltacoronavirus (ডেল্টাকরোনাভাইরাস); প্রজাতির ধরন: Bulbul coronavirus HKU11
+\n"   "o	প্রজাতি: Bulbul coronavirus HKU11, Porcine coronavirus HKU15
+    </string>
+    <string name="history_bangla">
+        এর প্রাদুর্ভাবটি প্রথম চিনেছিল চিনের উহান শহরে। উহান হুবেই প্রদেশের রাজধানী এবং এর প্রায় ১১ মিলিয়ন বাসিন্দা। ২৯ ডিসেম্বর ২০১৯ এ, চীনা কর্তৃপক্ষ নগরীতে নিউমোনিয়ার অনুরূপ রোগের কিছু রোগী সনাক্ত করে।
+
+\n\nশীঘ্রই নির্ধারিত হয় যে এই রোগ  নভেল করোনভাইরাস এর জন্য হয়েথাকে।  পরে যার নাম দেওয়া হয় সার্স -কোভি -2।
+\nচীনের বাইরে কোভিড -১৯ -এর প্রথম কেসগুলি ১৩ জানুয়ারী থাইল্যান্ডে এবং জাপানে ১৬ জানুয়ারী সনাক্ত করা হয়।
+\n২৩ শে জানুয়ারী ওহান শহর এবং এই অঞ্চলের অন্যান্য শহরগুলিকে চীন সরকার লকডাউন করে।
+\nতার পর থেকে কোভিড -১৯ আরও অনেক দেশে ছড়িয়ে পড়েছে - সমস্ত বিশ্বে এরকম কেস দেখা গেছে। মার্চের মধ্যে এটি একটি বিশ্বব্যাপী মহামারী হিসাবে বিকশিত হয় এবং (ডব্লিউ,এইচ,ও) দ্বারা এটি মহামারী  হিসাবে ঘোষণা করা হয়।
+
+\n\nকরোনোভাইরাসগুলি প্রায়শই প্রায় ৪০% সাধারণ সর্দিজনিত রোগের কারণ হিসাবে দেখা যায়।  বৈদ্যুতিন মাইক্রোস্কোপের নীচে এর পৃষ্ঠটি একটি মুকুটের  মত দেখা যায়।
+
+\n\nসাম্প্রতিক ইতিহাসে দুটি নতুন রোগের প্রাদুর্ভাবও করোনভাইরাসজনিত কারণে হয়েছিল - ২০০৩ সালে সারস যার ফলে প্রায় ১,০০০ জন মারা গিয়েছিল এবং ২০১২ সালে এমআইআরএসে ৮২ 8 জন মারা গিয়েছিল।
+
+
+        \n\nবিবর্তন:
+\nসকল প্রকার করোনাভাইরাসের সর্বশেষ সাধারণ পূর্বপুরুষ (মোস্ট রিসেন্ট কমন অ্যানসেস্টর বা এমআরসিএ) এর উৎপত্তি ঘটে আনুমানিক ৮০০০ খ্রিস্টপূর্বাব্দে।আলফাকরোনাভাইরাসের এমআরসিএ ধারা ২৪০০ খ্রিস্টপূর্বাব্দে, বেটাকরোনাভাইরাসের ধারা ৩৩০০ খ্রিস্টপূর্বাব্দে, গামাকরোনাভাইরাসের ধারা ২৮০০ খ্রিস্টপূর্বাব্দে এবং ডেল্টাকরোনাভাইরাসের ধারা ৩০০০ খ্রিস্টপূর্বাব্দে তৈরি হয়েছে। বাদুর এবং পাখির মত উড়ন্ত উষ্ণরক্তধারী মেরুদণ্ডী প্রাণীরাই করোনাভাইরাস জিন-উৎসের বিবর্তন এবং ছড়িয়ে দেওয়ার আদর্শ বাহক (বাদুড়ের জন্য আলফা ও বেটা করোনাভাইরাস, পাখির জন্য গামা এবং ডেল্টাকরোনাভাইরাস)।
+\nবোভাইন করোনাভাইরাস এবং ক্যানাইন শ্বসনযন্ত্রের করোনাভাইরাসের শেষ পূর্বপুরুষ এসেছে (~ ১৯৫০) এর দিকে। বোভাইন এবং মানব করোনাভাইরাস ওসি৪৩ ১৮৯০-এর দিকে ছড়ায়। বোভাইন করোনাভাইরাস ছড়ায় ইকুয়াইন করোনাভাইরাস প্রজাতি থেকে, ১৮ শতকের শেষদিকে।
+\nমানব করোনাভাইরাস ওসি৪৩-এর এমআরসিএ ১৯৫০-এর দিকে উৎপত্তি লাভ করে।
+\nমার্স-কোভি কিছু বাদুড়ের করোনাভাইরাস প্রজাতির সাথে সম্পর্কযুক্ত হলেও ধারণা করা হয় বেশকিছু শতাব্দী আগে এর উৎপত্তি ঘটে। মানব করোনাভাইরাস এনএল৬৩ এবং একটি বাদুড়ের করোনাভাইরাসের এমআরসিএ ৫৬৩-৮২২ বছর আগে উৎপত্তি লাভ করে।
+\n১৯৮৬ সালে বাদুড় করোনাভাইরাস এবং সার্স-কোভির সাথে সম্পর্কযুক্ত ভাইরাস উৎপত্তি লাভ করে। বাদুড়ের সাথে সম্পর্কযুক্ত সার্স ভাইরাসের বিবর্তনের একটু যাত্রাপথ ব্যাখ্যা করা হয়েছে। গবেষকেরা মনে করেন, করোনাভাইরাস দীর্ঘসময় ধরে বাদুড়ের সাথে সাথে বিবর্তিত হয়েছে এবং সার্স-কোভির উত্তরসূরীরা প্রথমে হিপোসিডারিডি গণের প্রজাতির মাধ্যমে সংক্রমিত হয়। এরপরে তা রাইনোলফিডির প্রজাতির মধ্যে, পরবর্তীতে ভামের মধ্যে এটি ছড়ায় এবং সর্বশেষে ছড়ায় মানুষের মধ্যে।
+\nআলপাকা করোনাভাইরাস এবং মানব করোনাভাইরাস ২২৯ই ১৯৬০-এর দিকে উৎপত্তি লাভ করে।
+
+\n\nমানব করোনাভাইরাস:
+        \nক্ষতির সম্ভাবনার দিক থেকে করোনাভাইরাস বেশ বৈচিত্র্যময়। কিছু প্রকরণ আক্রান্তের ৩০%-এরও বেশিকে মেরে ফেলে (যেমন মার্স-কোভি), কিছু প্রকরণ মোটামুটি নিরীহ, যেমন সাধারণ ঠাণ্ডা। করোনাভাইরাস ঠাণ্ডার পাশাপাশি বড় ধরণের কিছু উপসর্গ সৃষ্টি করে, যেমন জ্বর, ফুলে যাওয়া অ্যাডিনয়েডের ফলে গলা ব্যথা। এগুলো সাধারণত শীতকালে এবং বসন্ত ঋতুর শুরুর দিকে হয়। করোনাভাইরাস নিউমোনিয়া ঘটাতে পারে (সরাসরিভাবে ভাইরাসজনিত নিউমোনিয়া অথবা পরোক্ষভাবে ব্যাকটেরিয়াজনিত নিউমোনিয়া) এবং ব্রঙ্কাইটিসের (সরাসরিভাবে ভাইরাসজনিত ব্রঙ্কাইটিস অথবা পরোক্ষভাবে ব্যাকটেরিয়াজনিত ব্রঙ্কাইটিস) মাধ্যমে। ২০০৩ সালে সার্স-কোভি ছড়ানোর পর থেকে করোনাভাইরাস পরিচিতি পায়। এই ভাইরাস একইসাথে সিভিয়ার এ্যাকিউট রেসপিরেটরি সিনড্রোম (সার্স) এবং উর্ধ্ব এবং নিম্ন শ্বাসনালী সংক্রমণ ঘটায়।
+
+মানব করোনাভাইরাসের নিম্নলিখিত প্রকরণ আবিষ্কৃত হয়েছে:
+
+\n"   "১. মানব করোনাভাইরাস ২২৯ই (এইচকোভি-২২৯ই)
+\n"   "২. মানব করোনাভাইরাস ওসি৪৩ (এইচকোভি-ওসি৪৩)
+\n"   "৩. মানব করোনাভাইরাস এনএল৬৩ (এইচকোভি-এনএল৬৩, নিউ হ্যাভেন করোনাভাইরাস)
+\n"   "৪. মানব করোনাভাইরাস এইচকেইউ১
+\n\nএবং নিচের তিনটি, সাধারণত মারাত্মক হয়ে থাকে:
+\n"   "১. সিভিয়ার এ্যাকিউট রেসপিরেটরি সিনড্রোম (সার্স-কোভি বা সার্স ক্ল্যাসিক)
+\n"   "২. মিডল ইস্ট রেসপিরেটরি সিনড্রোম-সম্পর্কিত করোনাভাইরাস (মার্স-কোভি), পূর্বে “নোভেল করোনাভাইরাস ২০১২” এবং “এইচকোভি-ইএমসি” হিসেবে পরিচিত ছিল
+        \n"   "৩.সিভিয়ার এ্যাকিউট রেসপিরেটরি সিনড্রোম করোনাভাইরাস ২ (সার্স-কোভি-২), পূর্বে “২০১৯-কোভি” বা “নোভেল করোনাভাইরাস ২০১৯” হিসেবে পরিচিত ছিল
+করোনাভাইরাস এইচকোভি-২২৯ই, -এনএল৬৩, -ওসি৪৩ এবং -এইচকেইউআই মানুষের মধ্যে ক্রমাগত ছড়ায় এবং বিশ্বজুড়ে প্রাপ্তবয়স্ক এবং শিশুদের শ্বসনতন্ত্রে সংক্রমণ ঘটায়।
+    </string>
+    <string name="symptom_bangla">
+        কোভিড -১৯ এর লক্ষণ :
+\n\n"   "১. ভাইরাস শরীরে ঢোকার পর সংক্রমণের লক্ষণ দেখা দিতে সাধারণত প্রায় ২-১৪ দিন লাগে।
+\n\n"   "২. বেশির ভাগ ক্ষেত্রে প্রথম লক্ষণ জ্বর (১০০ ডিগ্রী ফারেনহাইট বা ৩৮ ডিগ্রী  সেলসিয়াসের বেশি )
+\n\n"   "৩. এছাড়া শুকনো কাশি /গলা ব্যথা হতে পারে।
+\n\n"   "৪. শ্বাসকষ্ট /নিউমোনিয়া দেখা দিতে পারে।
+\n\n"   "৫. অন্যান্য অসুস্থতা (ডায়াবেটিস /উচ্চ রক্তচাপ /শ্বাসকষ্ট /হৃদরোগ /কিডনী সমস্যা /ক্যান্সার ইত্যাদি ) থাকলে অরগ্যান ফেইলিওর হতে পারে।
+    </string>
+    <string name="prevention_bangla">
+        ১. বার বার সাবান ও পানি দিয়ে ২০ সেকেন্ড ধরে হাত ধুয়ে নিন অথবা স্যানিটাইজার জেল ব্যবহার করুন।
+\n\n২. হাঁসি ও কাশি দেবার জন্য টিস্যু  ব্যবহার করুন।
+\n\n৩. টিস্যু না থাকলে জামার হাত ব্যাবহার করুন।
+\n\n৪. হাত না ধুয়ে চোখে, নাক এবং মুখে স্পর্শ করবেন না।
+\n\n৫. অসুস্থ মানুষের থেকে দূরে থাকুন।
+\n\n৬. আপনার কোন লক্ষণ দেখা দিলে সাহায্যের জন্য যোগাযোগ করুন :বাংলাদেশে আইইডিসিআর-এর হটলাইন নম্বর ৩৩৩,  ১৬২৬৩, এছাড়া আরো কতগুলো নম্বর আছে, সেগুলোতে ফোন করুন।
+        \n\n\n
+        যেহেতু এই রোগ এর কোনো টিকা বা ঔষধ নাই, তাই আমাদের শরীরে রোগ প্রতিরোধ ক্ষমতা বাড়ানো উচিৎ।
+\nএর জন্য বেশি বেশি ভিটামিন সি যুক্ত খাবার খাওয়া যেতে পারে :
+\n"   "১. টক জাতীয় যেকোনো খাবার
+\n"   "২. টক জাতীয় ফল.
+\n"   "৩. কাঁচা আম
+\n"   "৪. আমড়া
+\n"   "৫. লেবু
+\n"   "৬. কমলা লেবু
+\n"   "৭. মাল্টা
+\n"   "৮. এলো  ভেরা
+\n"   "৯. কামরাঙ্গা
+\n"   "১০. আমলকি
+\n"   "১১. পেয়ারা
+\n"   "১২. কাকডু বরই
+\n"   "১৩. জাম্বুরা
+\n"   "১৪. কূল বরই
+\n"   "১৫. জাম ফল
+\n"   "১৬. সবুজ রঙের বেল মরিচ
+\n"   "১৭. লাল মিষ্টি মরিচ
+\n"   "১৮. মিষ্টি হলুদ মরিচ
+\n"   "১৯. এসেরোলা চেরি
+\n"   "২০. সরিষা শাক
+\n"   "২১. ব্রোকলি
+\n"   "২২. লিচু
+\n"   "২৩. পেপে
+    </string>
+    <string name="after_symptom_bangla">
+        আপনার নিজের কোন লক্ষণ দেখা দিলে কি করবেন?
+
+\n\n জ্বর, হাঁচি-কাশি, মাথাব্যাথা হলে-
+
+\n·         রোগতত্ত্ব, রোগ নযি়ন্ত্রণ ও গবষেণা ইনস্টটিউিট এ হটলাইনে যোগাযোগ করুন ও আপনার অফিসে জানিয়ে দিন।
+
+\n·         পরিবারের অন্য সদস্যদের নিরাপত্তার সার্থে আপনি একা আলাদা একটি রুমে আলাদাভাবে অবস্থান করুন ও সবসময় মাস্ক পরিধান করুন
+
+\n·         জরুরী কাজ ব্যতিত বাড়ীর বাইরে যাওয়া হতে বিরত থাকুন। জরুরী কাজে বাইরে গলেে মাস্ক পরিধান করুন।
+
+\n·         সুস্থ ব্যক্তিদের থেকে অন্তত ১ মিটার (৩ ফিট) দূরত্ব বজায় রাখুন
+
+\n·         ব্যবহার করা কাপড়চোপড় ভাল করে সাবান দিয়ে ধুয়ে ফেলুন এবং আসবাবপত্র জীবাণুনাশক দিয়ে পরিস্কার করুন
+
+
+
+\n\n\nআক্রান্ত ব্যক্তির সংস্পর্শে আসলে কি করবেন?
+
+\n·         সংস্পর্শে আসার দিন থেকে ১৪ দিন পর্যন্ত আলাদা একটি কক্ষে অবস্থান করুন ও সবসময় মাস্ক পরিধান করুন
+
+\n·         জরুরী কাজ ব্যতিত বাড়ীর বাইরে যাওয়া হতে বিরত থাকুন। জরুরী কাজে বাইরে গলে মাস্ক পরিধান করুন
+
+\n·         সুস্থ ব্যক্তিদের থেকে অন্তত ১ মিটার (৩ ফিট) দূরত্ব বজায় রাখুন
+
+\n·         এই ১৪ দিনের মধ্যে লাক্ষন দেখা দিলে রোগতত্ত্ব, রোগ নযি়ন্ত্রণ ও গবষেণা ইনস্টটিউিট এ হটলাইনে যোগাযোগ করুন ও আপনার অফিসে জানিয়ে দিন
+
+\n·         ১৪ দিনের মধ্যে লক্ষণ দেখা না দিলে  স্বাভাবিক জীবন যাপনে ফেরত যেতে পারবেন
+
+\n·         ব্যবহার করা কাপড়চোপড় ভাল করে সাবান দিয়ে ধুয়ে ফেলুন এবং আসবাবপত্র জীবাণুনাশক দিয়ে পরিস্কার করুন.
+
+
+       \n\n\n আইইডিসিআর-এর হটলাইন নম্বরে (০১৫৫০০৬৪৯০১-৫, ০১৪০১১৮৪৫৫১,
+০১৪০১১৮৪৫৫৪, ০১৪০১১৮৪৫৫৫, ০১৪০১১৮৪৫৫৬, ০১৪০১১৮৪৫৫৯, ০১৪০১১৮৪৫৬০,
+০১৪০১১৮৪৫৬৩, ০১৪০১১৮৪৫৬৮, ০১৯৩৭-১১০০১১, ০১৯৩৭-০০০০১১, ০১৯২৭-৭১১৭৮৪,
+০১৯২৭-৭১১৭৮৫) অবশ্যই যোগাযোগ করুন এবং পরবর্তী করণীয় জেনে নিন।
+    </string>
+    <string name="home_quarantine_bangla">
+        কোভিড-১৯ আক্রান্ত ব্যক্তিদের সংস্পর্শে আসা সন্দেহে থাকা ব্যক্তিদের কোয়ারেন্টিন সম্পর্কে জ্ঞাতব্যঃ
+\n\n’কোয়ারান্টাইন’ এর মাধ্যমে সেই সকল সুস্থ ব্যক্তিদের, যারা কোন সংক্রামক রোগে আক্রান্ত ব্যক্তির সংস্পর্শে এসেছেন, তাদের অন্য সুস্থ ব্যক্তিদের থেকে আলাদা রাখা হয়, গতিবিধি নিয়ন্ত্রণ করা হয় এবং তারা একটি নির্দিষ্ট সময়ের মধ্যে
+ঐ সংক্রামক রোগে আক্রান্তহন কিনা তা পর্যবেক্ষণ করা হয়।
+আন্তর্জাতিক স্বাস্থ্য বিধি (আইএইচআর -২০০৫) এর আর্টিকেল ৩২ অনুসারে, যে সব দেশে কোভিড-১৯ এর স্থানীয়
+সংক্রমণ ঘটেছে সে সব দেশ থেকে যে সব যাত্রী এসেছেন এবং আসবেন (দেশী-বিদেশী যে কোনো নাগরিক), যারা
+দেশে সনাক্তকৃত ৩ জন কোভিড-১৯ আক্রান্ত ব্যক্তিদের সংস্পর্শে এসেছেন, এবং যার অথবা যাদের কোন শারীরিক
+উপসর্গ নেই, তাদের ১৪ দিন কোয়ারেন্টিন পালন করা আবশ্যক।
+\n\nঐ সকল ব্যক্তিদের মধ্যে যাদের বাড়ীতে কোয়ারেন্টিনের নির্দেশাবলী অনুযায়ী পর্যাপ্ত ব্যবস্থা করা সম্ভব, যারা নিজেরা
+(ও তাদের পরিবার) স্বেচ্ছা/ গৃহ কোয়ারেন্টিনের সকল নিয়ম মানার জন্য প্রস্তুত এবং যাদের ক্ষেত্রে পারিবারিক ও
+সামাজিকভাবে কোয়ারেন্টিন থাকাকালীন প্রয়োজনীয় সকল সামগ্রী নিশ্চিত করা সম্ভব, তারা স্বেচ্ছা/ গৃহ কোয়ারেন্টিনে
+থাকতে পারেন।
+
+        \n\n
+স্বেচ্ছা/ গৃহ কোয়ারেন্টিনের জন্য নির্দেশনাবলী:
+\n\n1.  অত্যাবশ্যকীয়ভাবে নিজ বাড়ীতে থাকুন
+\n"   "a.   হাসপাতালে চিকিৎসা সেবা নেয়া ব্যতীত বাড়ীর বাইরে যাবেন না।
+\n"   "b.   বাড়ীর বাইরে কাজে, স্কুল, কলেজ অথবা জনসমাগমে যাওয়া থেকে বিরত থাকুন।
+\n\n2.  বাড়ীর অন্যান্য সদস্যদের থেকে আলাদা থাকুন
+\n"   "a.   আলো বাতাসের সুব্যবস্থা সম্পন্নআলাদা ঘরে থাকুন এবং অন্যান্য সদস্যদের থেকে আলাদাভাবে থাকুন।
+তা সম্ভব না হলে, অন্যদের থেকে অন্তত ১ মিটার (৩ ফুট) দুরে থাকুন (ঘুমানোর জন্য পৃথক বিছানা ব্যবহার
+করুন)।
+\n"   "b.   যদি সম্ভব হয় তাহলে আলাদা গোসলখানা এবং টয়লেট ব্যবহার করুন। সম্ভব না হলে, অন্যদের সাথে
+ব্যবহার করতে হয় এমন স্থানের সংখ্যা কমান ও ঐ স্থানগুলোতে জানালা খুলে রেখে পর্যাপ্ত আলো-বাতাসের
+ব্যবস্থা করুন।
+\n"   "c.   বুকের দুধ খাওয়ান এমন মা শিশুকে বুকের দুধ খাওয়াবেন। শিশুর কাছে যাওয়ার সময় মাস্ক ব্যবহার করুন
+এবং ভালভাবে হাত ধুয়ে নিন।
+\n"   "d.   আপনার সাথে কোন পশু/পাখি রাখবেন না।
+\n\n3.  মাস্ক ব্যবহার করুন
+
+\n"   "a.   বাড়ীর অন্যান্য সদস্যদের সাথে একই ঘরে অবস্থান করলে, বিশেষ করে ১ মিটারের মধ্যে আসার সময়।
+\n"   "b.   অত্যাবশ্যকীয় প্রয়োজনে বাড়ী থেকে বের হলে মাস্ক ব্যবহার করুন।
+\n"   "c.   মাস্ক পরে থাকাকালীন এটি হাত দিয়ে ধরা থেকে বিরত থাকুন।
+\n"   "d.   মাস্ক ব্যবহারের সময় প্রদাহের (সর্দি, থুতু, কাশি, বমি ইত্যাদি) সংস্পর্শে আসলে সঙ্গে সঙ্গে মাস্ক খুলে
+ফেলুন এবং নতুন মাস্ক ব্যবহার করুন।
+\n"   "e.   মাস্ক ব্যবহারের পর ঢাকনাযুক্ত ময়লার পাত্রে ফেলুন এবং সাবান পানি দিয়ে ভাল ভাবে হাত ধুয়ে নিন।
+\n\n4.  হাত ধোয়া
+\n"   "a.   সাবান ও পানি দিয়ে অন্তত ২০ সেকেন্ড ধরে হাত ধোবেন (বিশেষ করে যদি হাত দেখতে নোংরা লাগে
+সাবান-পানি ব্যবহার করুন)। প্রয়োজনে হ্যান্ড স্যানিটাইজার ব্যবহার করা যেতে পারে।
+\n"   "b.   অপরিষ্কার হাতে চোখ, নাক ও মুখ স্পর্শ করবেন না।
+\n"   "c.   সাবান-পানি ব্যবহারের পর টিস্যু দিয়ে হাত শুকনো করে ফেলুন। টিস্যু না থাকলে শুধুহাত মোছার জন্য
+নির্দিষ্ট তোয়ালে/ গামছা ব্যবহার করুন এবং ভিজে গেলে বদলে ফেলুন।
+\n\n5.  মুখ ঢেকে হাঁচি কাশি দিন
+\n"   "a.   কাশি শিষ্টাচার মেনে চলুন। হাঁচি কাশির সময় টিস্যু পেপার/ মেডিকেল মাস্ক/ কাপড়ের মাস্ক/ বাহুর ভাঁজে
+মুখ ও নাক ঢেকে রাখুন এবং উপরের নিয়মানুযায়ী হাত পরিষ্কার করুন।
+\n"   "b.   টিস্যু পেপার ও মেডিকেল মাস্ক ব্যবহারের পর ঢাকনাযুক্ত বিনে ফেলুন।
+\n"   "c.   ব্যক্তিগত ব্যবহার্য সামগ্রী অন্য কারো সাথে ভাগাভাগি করে ব্যবহার করবেন না
+\n"   "d.   আপনার খাওয়ার বাসনপত্র- থালা, গøাস, কাপ ইত্যাদি, তোয়ালে, বিছানার চাদর অন্য কারো সাথে
+ভাগাভাগি করে ব্যবহার করবেন না ।
+\n"   "e.   এ সকল জিনিসপত্র ব্যবহারের পর সাবান-পানি দিয়ে ভালোভাবে পরিষ্কার করে ফেলুন।
+
+
+
+
+\n\n\nকখন আপনার কোয়ারেন্টিন শেষ হবে?\n
+চিকিৎসকের পরামর্শ অনুযায়ী আপনার কোয়ারেন্টিন শেষ হবে। চিকিৎসকের সিদ্ধান্তমতে একজন হতে অন্যজনের
+কোয়ারেন্টিন-এর সময়সীমা আলাদা হতে পারে। তবে, এ পর্যন্তপাওয়া তথ্য-উপাত্তের ভিত্তিতে এ সময়সীমা ১৪
+দিন।
+\n\n\nআপনি কোয়ারেন্টিনে থাকাকালীন যা করতে পারেন-
+\n"   "a.   ঈঙঠওউ-১৯ সম্পর্কে জানতে পারেন। ডঐঙ, ঈউঈ, ওঊউঈজ এর ওয়েবসাইটে এ সংক্রান্ত
+হালনাগাদ তথ্য পেতে পারেন।
+\n"   "b.   পরিবার ও বন্ধু-বান্ধবের সাথে ফোন/ মোবাইল/ ইন্টারনেটের সাহায্যে যোগাযোগ রাখুন।
+\n"   "c.   শিশুকে তার জন্য প্রযোজ্যভাবে বোঝান। তাদেরকে পর্যাপ্ত খেলার সামগ্রী দিন এবং খেলনাগুলো খেলার পরে
+জীবাণুমুক্ত করুন।
+\n"   "d.   আপনার দৈনন্দিন রুটিন, যেমন- খাওয়া, হালকা ব্যায়াম ইত্যাদি মেনে চলুন।
+\n"   "e.   সম্ভব হলে বাসা থেকে অফিসের কাজ করতে থাকুন।
+\n"   "f.   বইপড়া, গান শোনা, সিনেমা দেখা অথবা উপর্যুক্ত নিয়মগুলোর সাথে পরিপন্থী নয় এমন যে কোন
+বিনোদনমূলক কাজে নিজেকে সম্পৃক্ত করুন বা ব্যস্ত রাখুন।
+
+
+
+        \n\n\nপরিবারের সদস্যদের জন্য নির্দেশাবলী
+\n"   "a.   যিনি কোয়ারেন্টিনে আছেন, তার ঘরে থাকা নিশ্চিত করুন।
+\n"   "b.   বর্তমানে সুস্থ আছেন এবং যার দীর্ঘমেয়াদী রোগসমূহ (যেমনঃ ডায়াবেটিস, উচ্চ রক্তচাপ, ক্যান্সার, অ্যাজমা
+প্রভৃতি) নেই, এমন একজন নির্দিষ্ট ব্যক্তিকে পরিচর্যাকারী হিসেবে নিয়োজিত হতে পারেন। তিনি ঐ ঘরে
+বা পাশের ঘরে থাকবেন, অবস্থান বদল করবেন না।
+\n"   "c.   কোয়ারেন্টিনে আছেন এমন ব্যক্তির সাথে কোন অতিথিকে দেখা করতে দিবেন না।
+\n"   "d.   পরিচর্যাকারী নি¤œলিখিত যে কোন কাজ করার পর প্রতিবার উপরের নিয়মে দুই হাত পরিষ্কার করবেন-
+\n"       " কোয়ারেন্টিনে থাকা ব্যক্তির সংস্পর্শে এলে বাতার ঘরে ঢুকলে
+\n"       " খাবার তৈরীর আগে ও পরে
+\n"       " খাবার আগে
+\n"       " টয়লেট ব্যবহারের পরে
+\n"       " গøাভস পরার আগে ও খোলার পরে
+\n"       " যখনই হাত দেখে নোংরা মনে হয়
+\n"   "e.   খালি হাতে ঐ ঘরের কোন কিছু স্পর্শ করবেন না।
+\n"   "f.   কোয়ারেন্টিনে থাকা ব্যক্তির ব্যবহৃত বা তার পরিচর্যায় ব্যবহৃত মাস্ক, গøাভস, টিস্যু ইত্যাদি অথবা অন্য
+আবর্জনা ঐ রুমে রাখা ঢাকনাযুক্ত ময়লার পাত্রে রাখুন। এ সকল আবর্জনা উন্মুক্ত স্থানে না ফেলে পুড়িয়ে
+ফেলুন।
+\n"   "g.   ঘরের মেঝে, আসবাবপত্রের সকল পৃষ্ঠতল, টয়লেট ও বাথরুম প্রতিদিন অন্তত একবার পরিষ্কার করুন।
+পরিষ্কারের জন্য ১ লিটার পানির মধ্যে ২০ গ্রাম (২ টেবিল চামচ পরিমাণ) বিøচিং পাউডার মিশিয়ে দ্রবণ তৈরী
+করুন ও ঐ দ্রবণ দিয়ে উক্ত সকল স্থান ভালোভাবে মুছে ফেলুন। তৈরীকৃত দ্রবণ সর্বোচ্চ ২৪ ঘন্টা পর্যন্ত
+ব্যবহার করা যাবে।
+\n"   "h.   কোয়ারেন্টিনে থাকা ব্যক্তিকে নিজের কাপড়, বিছানার চাদর, তোয়ালে ইত্যাদি ব্যবহৃত কাপড় গুঁড়া সাবান/
+কাপড় কাচা সাবান ও পানি দিয়ে ভালোভাবে পরিষ্কার করতে বলুন এবং পওে ভালোভাবে শুকিয়ে ফেলুন।
+\n"   "i.   নোংরা কাপড় একটি লন্ড্রি ব্যাগে আলাদা রাখুন। মল-মূত্র বা নোংরা লাগা কাপড় ঝাঁকাবেন না এবং নিজের
+শরীর বা কাপড়ে যেন না লাগে তা খেয়াল করুন।
+
+
+
+
+\n\n\n কোয়ারান্টাইনে থাকা ব্যক্তির জন্য বিশেষ নির্দেশনা:
+\n"   "a.   স্থানীয় সরকারী হাসপাতাল এবং আইইডিসিআর-এ যোগাযোগের প্রয়োজনীয় ফোন নম্বরগুলো সংগ্রহে রাখুন।
+\n"   "b.   যদি কোয়ারেন্টিনে থাকাকালীন কোন উপসর্গ দেখা দেয় (১০০০ফারেনহাইট/ ৩৮০
+সেলসিয়াসএর বেশি/
+কাশি/ সর্দি/ গলাব্যথা/ শ্বাসকষ্ট ইত্যাদি), তবেঅতি
+দ্রæত আইইডিসিআর-এর হটলাইন নম্বরে (০১৫৫০০৬৪৯০১-৫, ০১৪০১১৮৪৫৫১,
+০১৪০১১৮৪৫৫৪, ০১৪০১১৮৪৫৫৫, ০১৪০১১৮৪৫৫৬, ০১৪০১১৮৪৫৫৯, ০১৪০১১৮৪৫৬০,
+০১৪০১১৮৪৫৬৩, ০১৪০১১৮৪৫৬৮, ০১৯৩৭-১১০০১১, ০১৯৩৭-০০০০১১, ০১৯২৭-৭১১৭৮৪,
+০১৯২৭-৭১১৭৮৫) অবশ্যই যোগাযোগ করুন এবং পরবর্তী করণীয় জেনে নিন।
+    </string>
+    <string name="isolation_bangla">
+        আইসোলেশন:
+\n\n"   "আইসোলেশন হচ্ছে, কারো মধ্যে যখন জীবাণুর উপস্থিতি ধরা পড়ে বা ধরা না পড়লেও উপসর্গ থাকে তখন তাকে আলাদা করে চিকিৎসার ব্যবস্থা করা। বিশেষ এই পদ্ধতিতে কোনো রোগীর হাঁচি-কাশি, মল-মূত্র অন্য কারো সংস্পর্শে যাবে না। জীবাণু যাতে ছড়িয়ে পড়তে না পারে, এজন্য রোগীকে যত রকম ব্যারিয়ার দেওয়া সম্ভব, আইসোলেশনে তা দেয়া হয়। সংক্ষেপে বলতে গেলে, আইসোলেশন হচ্ছে অসুস্থ ব্যক্তিদের জন্য, আর কোয়ারেন্টাইন হচ্ছে সুস্থ বা আপাত সুস্থ ব্যক্তিদের জন্য। আইসোলেশনে কতদিন রাখা হবে তার কোনো নির্দিষ্ট সময় নেই। পুরোপুরি সেরে না ওঠা পর্যন্ত আইসোলেশনে রাখা হয়।
+    </string>
+
+
+    <string name="how_t0_clean_bangla">Covid-19</string>
+
+
+    <string name="when_clean_bangla">
+        কখন কখন হাত ধুতে হবে:
+
+\n\n·         নাক পরিষ্কার করা, হাঁচি বা কাশি দেয়ার পরে
+
+\n·         অসুস্থ কাউকে সবো দেয়ার আগে ও পরে
+
+\n·         খাবার তৈরির আগে ও পরে
+
+\n·         খাবার খাওয়ার পূর্বে
+
+\n·         প্রতিবার টয়লেট ব্যবহার করার পরে
+
+\n·         হাতে দৃশ্যমান কোনো ময়লা থাকলে
+
+\n·         ময়লা-আবর্জনা ধরার পরে
+
+\n·         কোন প্রাণী হাত দিয়ে ধরলে বা প্রাণীর ময়লা পরিষ্কার করার পরে
+    </string>
+    <string name="some_hand_cleaner_bangla">
+        আমরা করোনভাইরাস থেকে আমাদের হাতটি রক্ষা করতে ব্যবহার করতে পারি:
+         \n \n১.  সাবান ।
+         \n২.  হাত স্যানিটাইজার।
+         \n৩.  হ্যান্ড ওয়াশ।
+         \n৪.  সাবান পানি।
+    </string>
+    <string name="how_to_make_bangla">
+        আমরা কম খরচে  কিছু এন্টিসেপটিক তৈরি করতে পারি:
+         \n\n১.  সাবান পানি:
+         \n "   " ক. ১.৫ লিটার জল।
+         \n "   " খ. ৪ চামচ ডিটারজেন্ট পাউডার।
+
+         \n\n২. ডিসিনফেক্টেট :
+        \n ডিসিনফেক্টেট হ্যান্ড ক্লিনার নয়।  ডিসিনফেক্টেট বিভিন্ন জিনিস স্যানিটাইজ করতে ব্যবহার করা যেতে পারে।
+         \n "   " ক. ৫ লিটার জল।
+         \n "   " খ. ১ টেবিল চামচ ব্লিচিং পাউডার।
+    </string>
+    <string name="mask_bangla">
+        "     "মাস্ক :
+\n\n১. বহিরাংশ সংক্রমিত এটি নিশ্চিত  সুতরাং স্পর্শ  থেকে বিরত থাকুন।
+\n\n২. মাস্ক অপসারনের সময় যদি গ্লাভস থেকে হাতে সংক্রমণ ঘটে তাহলে সাথে সাথে  সাবান বা এলকোহলযুক্ত হ্যান্ড স্যানিটাইজার দিয়া হাত ধুয়ে নিতে হবে।
+\n\n৩. মাস্কের বহিরাংশ স্পর্শ না করে মাথার পিছনের ফিতা বা ব্যান্ড ধরে মাস্কটি খুলে ফেলতে হবে।
+\n\n৪. আবর্জনা ফেলার পাত্রে ফেলে দিতে হবে।
+
+        \n\n\n\nনতুন করোনাভাইরাস সংক্রমণ রোধে জনসাধারণের বাইরে থাকাকালীন রাবারের গ্লাভস পরে যাওয়া কি কার্যকর?
+         \n\nউত্তর: না, হ্যান্ড গ্লাভস এর থেকেও নিয়মিত ভাবে হাত ধোয়া বেশি কার্যকরী।
+         \n"   "১. আপনার রবার এর গ্লাভস ও করোনাভাইরাসের জীবাণু বহন করতে পারে।
+         \n"   "২. এর পর আপনি যদি নিজের মুখটি স্পর্শ করেন তবে দূষিততা আপনার গ্লাভস থেকে আপনার মুখের দিকে যায় এবং আপনাকে সংক্রামিত করতে পারে।
+    </string>
+
+
+</resources>

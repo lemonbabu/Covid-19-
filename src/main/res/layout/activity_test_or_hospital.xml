@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#303030"
+    android:layout_height="match_parent"
+    tools:context=".TestOrHospital">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/hospital"
+            />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/logo"
+            android:text="Test Center/\nHospital"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_marginTop="200dp"
+        android:background="#D10000"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+    <LinearLayout
+        android:layout_marginTop="220dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/testView"
+            android:gravity="center_horizontal"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_marginBottom="20dp"
+            android:text="The most common tests for COVID-19 involve taking a swab from a patient’s nose and throat and checking them for the genetic footprint of the virus. They are called “PCR tests”. The first PCR tests for COVID-19 were developed very rapidly – within two weeks of the disease being identified. They are now part of the World Health Organisation (WHO)’s recommended protocol for dealing with the disease."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+
+            android:id="@+id/test"
+            android:background="#D10000"
+            android:text="Test Center"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/hospital"
+            android:background="#D10000"
+            android:text="Hospital"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/riskTest"
+            android:background="#D10000"
+            android:text="Corona virus risk test"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9189255863868239/4238302065"
+        />
+
+</RelativeLayout>

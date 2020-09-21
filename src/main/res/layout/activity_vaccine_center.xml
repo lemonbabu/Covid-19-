@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#303030"
+    android:layout_height="match_parent"
+    tools:context=".VaccineCenter">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/hospital"
+            />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/logo"
+            android:text="Covid-19"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_marginTop="200dp"
+        android:background="#D10000"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+    <ListView
+        android:id="@+id/list"
+        android:dividerHeight="2dp"
+        android:divider="#D10000"
+        android:layout_marginTop="201dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/empty"
+        android:layout_marginTop="250dp"
+        android:layout_width="wrap_content"
+        android:textSize="40dp"
+        android:textColor="#FFFFFF"
+        android:visibility="gone"
+        android:gravity="center"
+        android:text="Vaccine in not available yet!"
+        android:layout_height="wrap_content"/>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9189255863868239/4238302065"
+        />
+
+</RelativeLayout>
